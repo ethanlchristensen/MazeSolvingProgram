@@ -3,3 +3,6 @@ Program in Java 1.8 to visualize a robot solving a maze. Program uses JavaFX to 
 ## Recommendation
 Download the MazeSolvingProgram folder from github, and use intelliJ with Java 1.8 to open the project.
 Main file to run the program is "MazeWindow.java"
+## Example Run
+### Choose a Maze
+![alt text](https://github.com/ethanlchristensen/MazeSolvingProgram/blob/Master/imgs/choosemaze.png?raw=true)
