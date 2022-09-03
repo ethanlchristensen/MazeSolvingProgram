@@ -5,4 +5,4 @@ Download the MazeSolvingProgram folder from github, and use intelliJ with Java 1
 Main file to run the program is "MazeWindow.java"
 ## Example Run
 ### Choose a Maze
-![alt text](https://github.com/ethanlchristensen/MazeSolvingProgram/tree/main/imgs/choosemaze.png?raw=true)
+![chooserobot](https://user-images.githubusercontent.com/55725575/188254473-648d5c66-762f-4470-b75f-376ddf214e1a.png)
